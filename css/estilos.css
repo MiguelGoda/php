@@ -1,0 +1,207 @@
+.campo {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 9px;
+	VERTICAL-ALIGN: middle;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: right;
+	background-color: #000000;
+
+
+}
+td{
+FONT-SIZE: 11px;
+FONT-FAMILY: Verdana, Helvetica, sans-serif;
+padding-right: 0px;
+padding-left: 0px;
+
+}
+.TD {
+	FONT-SIZE: 12px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	left: 5px;
+	right: 5px;
+	top: 5px;
+	bottom: 5px;
+	padding-right: 3px;
+	padding-left: 3px;
+
+
+
+}
+TH {
+	BORDER-RIGHT: 1px solid #339933;
+	BORDER-TOP: 1px solid #666666;
+	FONT-SIZE: 10px;
+	BORDER-LEFT: 1px solid #666666;
+	COLOR: #006699;
+	BORDER-BOTTOM: 1px solid #339933;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #FFFFFF;
+	TEXT-ALIGN: center;
+	padding-right: 3px;
+	padding-left: 3px;
+	font-weight: bold;
+
+
+
+}
+TH A {
+	PADDING-RIGHT: 3px;
+	PADDING-LEFT: 3px;
+	FONT-SIZE: 10px;
+	TEXT-TRANSFORM: capitalize;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #DD5022;
+	TEXT-ALIGN: center;
+	font-weight: bold;
+
+}
+.tdreporte {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+A {
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	color: #DD5022;
+	font-weight: bold;
+
+
+
+}
+A:hover {
+	TEXT-DECORATION: underline;
+
+}
+.thtitulo {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; COLOR: #FFFFFF; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #000000}
+INPUT {
+	COLOR: #006699;
+	border: 1 solid #3399CC;
+}
+.thsubtitulo {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	BACKGROUND-COLOR: #DD5022;
+
+}
+.TableBorde {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+.letrasblancas {
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.campoletrasblancas {
+
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10px;
+	VERTICAL-ALIGN: middle;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-ALIGN: right;
+}
+.trLinea {
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #FFFF99;
+}
+.boton {
+	BORDER-RIGHT: 1px solid #006699;
+	BORDER-TOP: 1px solid #CCCCCC;
+	BORDER-LEFT: 1px solid #CCCCCC;
+	CURSOR: hand;
+	COLOR: #003366;
+	BORDER-BOTTOM: 1px solid #006699;
+	HEIGHT: 19px;
+	TEXT-DECORATION: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 9px;
+	background-color: #FFFFFF;
+}
+TEXTAREA {
+
+	COLOR: #FF9900;
+	border: 1px solid #FF9900;
+}
+.biglink {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #8f94c2; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.biglink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #7570a5; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.littlelink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #8f94c2; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.littlelink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 6pt; COLOR: #7570a5; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.mainlink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #22458c; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.mainlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #22458c; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.newlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #da251d; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.newlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #7570a5; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.whitelink {
+	FONT-WEIGHT: normal; COLOR: white; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.whitelink:hover {
+	FONT-WEIGHT: bold; COLOR: white; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+A {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #DD5022; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.gray {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #808080; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.gray:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #808080; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+.TD {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial,helvetica,sans-serif; TEXT-DECORATION: none
+}
+BODY {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 10pt;
+	FONT-FAMILY: arial,helvetica,sans-serif;
+	TEXT-DECORATION: none;
+}
+.Inactivo {
+	background-color: #ECE9D8;
+	color: #999999;
+}
+.texto{
+	font-size : 10px;
+	font-weight : bold;
+	background-color :#FFFFFF;
+	border:1px solid #000000;
+	color: #000000;
+	font-family: verdana;
+}

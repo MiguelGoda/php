@@ -1,0 +1,144 @@
+BODY {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../images/bg_site.jpg); MARGIN: 0px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f7941c
+}
+#menu {
+	MARGIN: -13px 0px 0px; WIDTH: 770px; POSITION: absolute
+}
+#menu UL {
+	LIST-STYLE: none none inside; MARGIN: 0px
+}
+#menu UL LI {
+	PADDING-RIGHT: 6px; BACKGROUND-POSITION: right 50%; DISPLAY: inline; PADDING-LEFT: 8px; BACKGROUND-IMAGE: url(../images/img_separador_bot.gif); PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+#submenu {
+	MARGIN: 7px 0px 0px; POSITION: absolute
+}
+#submenu UL {
+	PADDING-RIGHT: 0px; LIST-STYLE: none none inside; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px -5px; PADDING-TOP: 0px
+}
+#submenu UL LI {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px -4px; BORDER-LEFT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; HEIGHT: 22px
+}
+.bodyint {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(../images/bg_site.jpg); BACKGROUND-REPEAT: repeat-x; BACKGROUND-COLOR: #f7941c
+}
+#breakground {
+	FONT-SIZE: 11px; MARGIN: 0px 12px 0px 0px; COLOR: #fff; LINE-HEIGHT: 13px
+}
+#bg_tit {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 10px; BACKGROUND-IMAGE: url(../images/bg_int_tit.jpg); PADDING-BOTTOM: 0px; WIDTH: 224px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+A.link_normal_naranja {
+	FONT-WEIGHT: normal; COLOR: #c28721; TEXT-DECORATION: none
+}
+A.link_normal_naranja:hover {
+	FONT-WEIGHT: normal; COLOR: #73460d; TEXT-DECORATION: underline
+}
+A.link_normal {
+	FONT-WEIGHT: normal; COLOR: #fff; TEXT-DECORATION: none
+}
+A.link_normal:hover {
+	FONT-WEIGHT: normal; COLOR: #fff; TEXT-DECORATION: underline
+}
+A.link_bold {
+	FONT-WEIGHT: bold; COLOR: #fff; TEXT-DECORATION: none
+}
+A.link_bold:hover {
+	FONT-WEIGHT: bold; COLOR: #fff; TEXT-DECORATION: underline
+}
+.especificaciones H1 {
+	FONT-SIZE: 12px; MARGIN: 0px 0px 0px 9px; COLOR: #fff
+}
+.especificaciones H2 {
+	FONT-SIZE: 12px; MARGIN: 0px 0px 0px 6px; COLOR: #5e5d5d
+}
+.especificaciones H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN: 0px 0px 0px 6px; COLOR: #5e5d5d
+}
+#cont_imag {
+	MARGIN: 22px 0px 0px 22px
+}
+#cont_imag IMG {
+	MARGIN: 0px 8px 8px 0px
+}
+#cont_imag H1 {
+	FONT-SIZE: 11px; MARGIN: 12px 0px 0px; COLOR: #5e5d5d
+}
+#cont_imag H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; MARGIN: 8px 0px 0px; COLOR: #5e5d5d; LINE-HEIGHT: 17px
+}
+#cont_imag H2 A {
+	COLOR: #5e5d5d; TEXT-DECORATION: none
+}
+#cont_imag H2 IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FLOAT: left; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#cont_descrip H1 {
+	FONT-SIZE: 13px; MARGIN: 0px; COLOR: #5e5d5d
+}
+#cont_descrip P {
+	FONT-SIZE: 11px; MARGIN: 14px 0px 0px; COLOR: #5e5d5d
+}
+#cont_descrip B {
+	FONT-SIZE: 12px; MARGIN: 14px 0px 0px; COLOR: #5e5d5d; LINE-HEIGHT: 20px
+}
+#imagen_der {
+	FLOAT: right; MARGIN: 0px 0px 18px 20px
+}
+#imagen_izq {
+	FLOAT: left; MARGIN: 0px 20px 18px 0px
+}
+.h1clarito {
+	FONT-SIZE: 12px; COLOR: #f18219
+}
+.clarito {
+	FONT-SIZE: 12px; COLOR: #f18219; TEXT-DECORATION: none
+}
+.clarito:hover {
+	COLOR: #f7b173
+}
+.h1amarillo {
+	FONT-SIZE: 11px; COLOR: #e6a10c
+}
+#desplegables {
+	FONT-SIZE: 9px; CURSOR: pointer; COLOR: #f37f1c; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#desplegables #titulo {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/linea_punteada_nar.gif); PADDING-BOTTOM: 2px; MARGIN-LEFT: 15px; WIDTH: 290px; PADDING-TOP: 9px; BACKGROUND-REPEAT: repeat-x
+}
+#desplegables #tituloRoll {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/linea_punteada_nar.gif); PADDING-BOTTOM: 2px; MARGIN-LEFT: 15px; WIDTH: 290px; COLOR: #464646; PADDING-TOP: 9px; BACKGROUND-REPEAT: repeat-x
+}
+#desplegables #bullet {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 3px; COLOR: #b8791a; PADDING-TOP: 8px
+}
+#desplegablesgris {
+	FONT-SIZE: 9px; CURSOR: pointer; COLOR: #696969; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+#desplegablesgris #titulogris {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; DISPLAY: block; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/linea_punteada_gris.gif); PADDING-BOTTOM: 2px; MARGIN-LEFT: 15px; WIDTH: 290px; PADDING-TOP: 9px; BACKGROUND-REPEAT: repeat-x
+}
+#desplegablesgris #tituloRollgris {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(../images/linea_punteada_gris.gif); PADDING-BOTTOM: 2px; MARGIN-LEFT: 15px; WIDTH: 290px; COLOR: #f08819; PADDING-TOP: 9px; BACKGROUND-REPEAT: repeat-x
+}
+#desplegablesgris #bulletgris {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 3px; COLOR: #696969; PADDING-TOP: 8px
+}
+#redDiv {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 10px; FONT-SIZE: 9px; BACKGROUND-IMAGE: url(../images/linea_punteada_nar.gif); PADDING-BOTTOM: 10px; MARGIN-LEFT: 15px; TEXT-TRANSFORM: uppercase; WIDTH: 270px; COLOR: #737373; LINE-HEIGHT: 12px; PADDING-TOP: 10px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #faf6ef; TEXT-DECORATION: none
+}
+ HTML #redDiv {
+	PADDING-RIGHT: 10px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 10px; FONT-SIZE: 9px; BACKGROUND-IMAGE: url(../images/linea_punteada_nar.gif); PADDING-BOTTOM: 10px; MARGIN-LEFT: 17px; TEXT-TRANSFORM: uppercase; WIDTH: 290px; COLOR: #737373; LINE-HEIGHT: 12px; PADDING-TOP: 10px; BACKGROUND-REPEAT: repeat-x; FONT-FAMILY: tahoma; BACKGROUND-COLOR: #faf6ef; TEXT-DECORATION: none
+}
+#redDiv #titulo {
+	COLOR: #000000
+}
+A.mail {
+	COLOR: #b8791a; TEXT-DECORATION: none
+}
+A.mail:hover {
+	TEXT-DECORATION: underline
+}
+.modelos {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

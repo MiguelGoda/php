@@ -1,0 +1,21 @@
+BODY {
+	FONT-SIZE: 11px; BACKGROUND-IMAGE: url(images/01.gif); MARGIN: 0px; FONT-FAMILY: Verdana, "Verdana", Times, serif
+}
+.grass {
+	BACKGROUND-POSITION: 50% bottom; BACKGROUND-IMAGE: url(images/grass.gif); BACKGROUND-REPEAT: repeat-x
+}
+.head {
+	BACKGROUND-POSITION: 70px bottom; BACKGROUND-IMAGE: url(images/treetop.gif); BACKGROUND-REPEAT: no-repeat
+}
+A:link {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, "Verdana", Times, serif; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, "Verdana", Times, serif; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000; FONT-FAMILY: Verdana, "Verdana", Times, serif; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #ffffff; FONT-FAMILY: Verdana, "Verdana", Times, serif; TEXT-DECORATION: none
+}

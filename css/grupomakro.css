@@ -1,0 +1,60 @@
+TABLE {
+	FONT: 12px Verdana, Arial, sans-serif; COLOR: #000000
+}
+TR {
+	FONT: 12px Verdana, Arial, sans-serif; COLOR: #000000
+}
+TD {
+	FONT: 12px/14px arial, helvetica, sans-serif; COLOR: #000000
+}
+BODY {
+	MARGIN-TOP: 0px; BACKGROUND-IMAGE: url(tool/fondo.jpg); MARGIN-BOTTOM: 0px; FONT: 12px Bodoni MT, Arial, sans-serif; MARGIN-RIGHT: 0px
+}
+A {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:hover {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; TEXT-DECORATION: underline
+}
+#tolltitulo {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FLOAT: left; BACKGROUND-IMAGE: url(tool/fondo.gif); FONT-FAMILY: "Arial"
+}
+#escuela {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; FLOAT: left; COLOR: #000000; FONT-FAMILY: "Arial"
+}
+#textomenu {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: "Verdana"; TEXT-ALIGN: center
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; MARGIN: 0px; COLOR: #ffcc00; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.menuizq {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.descripcionamarilla {
+	FONT-SIZE: 11px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.descripcionblanca {
+	FONT-SIZE: 11px; MARGIN-LEFT: 2px; COLOR: #000000; FONT-FAMILY: "Verdana"; TEXT-ALIGN: justify
+}
+.leyenda {
+	FONT-SIZE: 10px; MARGIN-LEFT: 0px; COLOR: #000000; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.textofoot {
+	FONT-SIZE: 10px; MARGIN-LEFT: 0px; COLOR: #ffcc33; FONT-FAMILY: "Verdana"; TEXT-ALIGN: center
+}
+#hora {
+	FLOAT: right; BACKGROUND-IMAGE: url(tool/fondo.gif)
+}
+#textofecha {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #ffffff; FONT-FAMILY: "Verdana"; TEXT-ALIGN: right
+}
+#masinfo {
+	FONT-WEIGHT: bold; FONT-SIZE: 9px; COLOR: #0000ff; FONT-FAMILY: "Verdana"; TEXT-ALIGN: left
+}
+.negrito {
+	COLOR: #000000
+}

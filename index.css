@@ -1,0 +1,23 @@
+body
+{
+   
+   color: #000000;
+   font-family: Arial;
+   font-size: 13px;
+   margin: 0;
+   padding: 0;
+}
+#Table1
+{
+   border: 0px #696969 groove;
+   background-color: #B7EFF1;
+   border-spacing: 0px;
+}
+#Table1 td
+{
+   padding: 1px 1px 1px 1px;
+}
+#Table1 td div
+{
+   white-space: nowrap;
+}
